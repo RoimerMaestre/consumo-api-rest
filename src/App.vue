@@ -34,8 +34,8 @@ export default {
     return {
       user1: null,
       user2: null,
-      mensaje1: { texto: '', color: '#000000' },
-      mensaje2: { texto: '', color: '#000000' },
+      mensaje1: { texto: '', color: '#FFA833' },
+      mensaje2: { texto: '', color: '#FF6133' },
       mensajes: [],
     };
   },
