@@ -4,7 +4,7 @@
 
 # Descripción
 
-## Este es un proyecto de una aplicación de chat interactivo desarrollada en Vue.js. La aplicación permite a dos usuarios enviar mensajes entre sí con un color personalizado. La interfaz muestra los perfiles de los dos usuarios, permite escribir mensajes y los muestra en tiempo real en un componente de chat interactivo.
+Este es un proyecto de una aplicación de chat interactivo desarrollada en Vue.js. La aplicación permite a dos usuarios enviar mensajes entre sí con un color personalizado. La interfaz muestra los perfiles de los dos usuarios, permite escribir mensajes y los muestra en tiempo real en un componente de chat interactivo.
 
 ## Estructura del Proyecto
 

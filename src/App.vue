@@ -1,5 +1,6 @@
 <template>
   <main v-if="user1 && user2">
+    <!-- fomularios -->
     <form @submit.prevent="enviarMensaje('user1')">
       <img :src="user1.picture.large" alt="">
       <p>{{ user1.name.first }} {{ user1.name.last }}</p>
